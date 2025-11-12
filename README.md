@@ -2,7 +2,7 @@
 
 ![Cute Cat Operator](https://placecats.com/neo_2/300/200) 
 
-A Docker setup for Galene that's as smooth as a cat's purr and as reliable as their ability to knock things off your desk. Purr-fect for videoconferencing!*
+*A Docker setup for Galene that's as smooth as a cat's purr and as reliable as their ability to knock things off your desk. Purr-fect for videoconferencing!*
 
 ## 🐱 What is This?
 
