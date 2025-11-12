@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  my-galene:
+    build: .
+    ports:
+      - "8443:8443"
+     # - "1194:1194"
+    volumes:
+      - ./test/data:/data
+      - ./test/groups:/groups
+    #command: ["-insecure", "-http", ":8443", "-turn", "you.server.ip.address", "1194"]
